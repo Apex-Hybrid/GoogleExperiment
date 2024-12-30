@@ -1,1 +1,1 @@
-# GoogleExperiment
+This was a multivariate A/B testing project based on 3 different variables Google uses to determine the affect on users engagement. The variables are search bar shape, search bar button style and the search bar background color. The goal here is to select combinations that seem the most promising. # GoogleExperiment
